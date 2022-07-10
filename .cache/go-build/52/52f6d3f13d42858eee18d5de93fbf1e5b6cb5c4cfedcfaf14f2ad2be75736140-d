@@ -1,0 +1,15 @@
+./contract.pb.go
+./genesis.pb.go
+./long_book.pb.go
+./order_cancellation.pb.go
+./order_entry.pb.go
+./order_placement.pb.go
+./pair.pb.go
+./params.go
+./params.pb.go
+./query.pb.go
+./query.pb.gw.go
+./settlement.pb.go
+./short_book.pb.go
+./twap.pb.go
+./tx.pb.go

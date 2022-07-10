@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+raw.githubusercontent.com	0	0	1657369428	31536000
+go.dev	0	1	1657462088	31536000
+golang.org	0	1	1657462088	31536000

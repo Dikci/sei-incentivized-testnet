@@ -1,0 +1,4 @@
+./encoder.go
+./queries.go
+./query_plugin.go
+./wasm.go
